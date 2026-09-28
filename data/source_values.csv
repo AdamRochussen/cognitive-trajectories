@@ -1,0 +1,98 @@
+study,source_table,quantity,value
+Owens (1966),Table 9,"Verbal component, 1950-1919, retested N=96",0.631
+Owens (1966),Table 9,"Verbal component, 1950-1919, not retested N=31",0.679
+Owens (1966),Table 9,"Numerical component, 1950-1919, retested N=96",-0.059
+Owens (1966),Table 9,"Numerical component, 1950-1919, not retested N=31",-0.151
+Owens (1966),Table 9,"Reasoning component, 1950-1919, retested N=96",0.15
+Owens (1966),Table 9,"Reasoning component, 1950-1919, not retested N=31",-0.035
+Owens (1966),Table 9,"Total component, 1950-1919, retested N=96",0.583
+Owens (1966),Table 9,"Total component, 1950-1919, not retested N=31",0.447
+Owens (1966),Table 3,"Verbal component, 1961-1950",-0.032
+Owens (1966),Table 3,"Numerical component, 1961-1950",-0.203
+Owens (1966),Table 3,"Reasoning component, 1961-1950",0.015
+Owens (1966),Table 3,"Total component, 1961-1950",-0.047
+Schwartzman et al. (1987),Table 3,Picture Completion WWII mean,15.74
+Schwartzman et al. (1987),Table 3,Picture Completion WWII SD,2.92
+Schwartzman et al. (1987),Table 3,Picture Completion current mean (normal time),14.36
+Schwartzman et al. (1987),Table 3,Picture Anomalies WWII mean,14.09
+Schwartzman et al. (1987),Table 3,Picture Anomalies WWII SD,3.3
+Schwartzman et al. (1987),Table 3,Picture Anomalies current mean (normal time),11.54
+Schwartzman et al. (1987),Table 3,Paper Formboard WWII mean,13.09
+Schwartzman et al. (1987),Table 3,Paper Formboard WWII SD,4.42
+Schwartzman et al. (1987),Table 3,Paper Formboard current mean (normal time),9.7
+Schwartzman et al. (1987),Table 3,Verbal Analogies WWII mean,26.49
+Schwartzman et al. (1987),Table 3,Verbal Analogies WWII SD,6.34
+Schwartzman et al. (1987),Table 3,Verbal Analogies current mean (normal time),24.96
+Schwartzman et al. (1987),Table 3,Tool Recognition WWII mean,21.66
+Schwartzman et al. (1987),Table 3,Tool Recognition WWII SD,4.67
+Schwartzman et al. (1987),Table 3,Tool Recognition current mean (normal time),22.33
+Schwartzman et al. (1987),Table 3,Mechanical Info WWII mean,21.57
+Schwartzman et al. (1987),Table 3,Mechanical Info WWII SD,6.06
+Schwartzman et al. (1987),Table 3,Mechanical Info current mean (normal time),22.92
+Schwartzman et al. (1987),Table 3,Vocabulary WWII mean,18.08
+Schwartzman et al. (1987),Table 3,Vocabulary WWII SD,6.14
+Schwartzman et al. (1987),Table 3,Vocabulary current mean (normal time),21.08
+Schwartzman et al. (1987),Table 3,Arithmetic WWII mean,10.67
+Schwartzman et al. (1987),Table 3,Arithmetic WWII SD,3.1
+Schwartzman et al. (1987),Table 3,Arithmetic current mean (normal time),9.69
+Schwartzman et al. (1987),Table 3,TOTAL WWII mean,142.21
+Schwartzman et al. (1987),Table 3,TOTAL WWII SD,27.86
+Schwartzman et al. (1987),Table 3,TOTAL current mean (normal time),137.01
+Mortensen & Kleven (1993),Table 1,Information SD at age 50,3.53
+Mortensen & Kleven (1993),Table 1,Information mean difference 60-50,0.26
+Mortensen & Kleven (1993),Table 1,Information mean difference 70-60,0.11
+Mortensen & Kleven (1993),Table 1,Comprehension SD at age 50,3.05
+Mortensen & Kleven (1993),Table 1,Comprehension mean difference 60-50,0.32
+Mortensen & Kleven (1993),Table 1,Comprehension mean difference 70-60,-0.67
+Mortensen & Kleven (1993),Table 1,Similarities SD at age 50,3.95
+Mortensen & Kleven (1993),Table 1,Similarities mean difference 60-50,-0.57
+Mortensen & Kleven (1993),Table 1,Similarities mean difference 70-60,0.07
+Mortensen & Kleven (1993),Table 1,Vocabulary SD at age 50,10.12
+Mortensen & Kleven (1993),Table 1,Vocabulary mean difference 60-50,0.46
+Mortensen & Kleven (1993),Table 1,Vocabulary mean difference 70-60,-2.04
+Mortensen & Kleven (1993),Table 1,Digit Span SD at age 50,1.61
+Mortensen & Kleven (1993),Table 1,Digit Span mean difference 60-50,-0.68
+Mortensen & Kleven (1993),Table 1,Digit Span mean difference 70-60,-0.09
+Mortensen & Kleven (1993),Table 1,Digit Symbol SD at age 50,10.94
+Mortensen & Kleven (1993),Table 1,Digit Symbol mean difference 60-50,-0.01
+Mortensen & Kleven (1993),Table 1,Digit Symbol mean difference 70-60,-4.86
+Mortensen & Kleven (1993),Table 1,Picture Completion SD at age 50,3.13
+Mortensen & Kleven (1993),Table 1,Picture Completion mean difference 60-50,-0.26
+Mortensen & Kleven (1993),Table 1,Picture Completion mean difference 70-60,-0.34
+Mortensen & Kleven (1993),Table 1,Block Design SD at age 50,7.87
+Mortensen & Kleven (1993),Table 1,Block Design mean difference 60-50,-0.95
+Mortensen & Kleven (1993),Table 1,Block Design mean difference 70-60,-3.8
+Mortensen & Kleven (1993),Table 1,Picture Arrangement SD at age 50,5.85
+Mortensen & Kleven (1993),Table 1,Picture Arrangement mean difference 60-50,-1.26
+Mortensen & Kleven (1993),Table 1,Picture Arrangement mean difference 70-60,-0.79
+Mortensen & Kleven (1993),Table 1,Object Assembly SD at age 50,6.79
+Mortensen & Kleven (1993),Table 1,Object Assembly mean difference 60-50,-0.66
+Mortensen & Kleven (1993),Table 1,Object Assembly mean difference 70-60,-2.46
+Mortensen & Kleven (1993),Table 1,Arithmetic SD at age 50,2.99
+Mortensen & Kleven (1993),Table 1,Arithmetic mean difference 60-50,-0.35
+Mortensen & Kleven (1993),Table 1,Arithmetic mean difference 70-60,-0.43
+Mortensen & Kleven (1993),Table 1,FSIQ SD at age 50,13.55
+Mortensen & Kleven (1993),Table 1,FSIQ mean difference 60-50,-1.88
+Mortensen & Kleven (1993),Table 1,FSIQ mean difference 70-60,-3.57
+"Deary, Starr & MacLennan (1998)",Table 1,NART wave 1 mean,115.8
+"Deary, Starr & MacLennan (1998)",Table 1,NART wave 1 SD,7.5
+"Deary, Starr & MacLennan (1998)",Table 1,NART wave 2 mean,113.7
+Larsen et al. (2008),Table 1,ACB verbal t1 mean,107.16
+Larsen et al. (2008),Table 1,ACB verbal t1 SD,22.26
+Larsen et al. (2008),Table 1,ACB verbal t2 mean,116.52
+Larsen et al. (2008),Table 1,ACB arithmetic t1 mean,104.43
+Larsen et al. (2008),Table 1,ACB arithmetic t1 SD,22.01
+Larsen et al. (2008),Table 1,ACB arithmetic t2 mean,104.61
+Dam & Raven (2008),secondary: Substack table,APM standardised change 20->70,-0.61
+Corley et al. (2023),Table 3,visuospatial slope mean,-0.201
+Corley et al. (2023),Table 3,visuospatial slope SE,0.059
+Corley et al. (2023),Table 3,visuospatial intercept variance,13.711
+Corley et al. (2023),Table 3,speed slope mean,-0.413
+Corley et al. (2023),Table 3,speed slope SE,0.046
+Corley et al. (2023),Table 3,speed intercept variance,21.971
+Corley et al. (2023),Table 3,memory slope mean,-0.361
+Corley et al. (2023),Table 3,memory slope SE,0.066
+Corley et al. (2023),Table 3,memory intercept variance,171.046
+Corley et al. (2023),Table 3,verbal slope mean,-0.022
+Corley et al. (2023),Table 3,verbal slope SE,0.01
+Corley et al. (2023),Table 3,verbal intercept variance,59.634

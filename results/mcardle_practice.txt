@@ -1,0 +1,16 @@
+McArdle et al. (2002): quantities quoted in the article
+
+Retest intervals (Table 1, all ages): 20.5% < 1 y; 48.5% < 2 y; median 2.2 y
+Adult median lags: 3.0 y (ages 20-49), 3.1 y (ages 50-95)
+
+Peak ages (Table 9): BCA 26.2, Gf 22.8, Gc 35.6
+
+Fit: without practice chi2(5) = 1,838; with practice chi2(7) = 2,070
+     implied gain from practice term: chi2(2) = 232 (derived)
+     bilinear, with vs without practice: chi2(2) = 319 (stated, p. 129)
+
+One retest = 2.7 W / 0.3 W per year = 9.0 years of decline
+Expected observed change at median lag 3.0 y (ages 20-49): 2.7 + (-0.3 x 3.0) = +1.80 W
+Expected observed change at median lag 3.1 y (ages 50-95): 2.7 + (-0.3 x 3.1) = +1.77 W
+
+Robustness, bilinear model (Table 7): 3.2 / 0.39 = 8.2 years of decline per retest

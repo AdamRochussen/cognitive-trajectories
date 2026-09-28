@@ -1,0 +1,33 @@
+PRIMARY MODELS: adult baselines, raw longitudinal, linear rate, REML + cluster-robust SEs (cohort clusters)
+
+==============================================================================
+FLUID (gf)   [k = 7, tau = 0.135]
+  alpha (rate at age 0)    +0.04186  SE 0.00768  t +5.45  p 0.0121
+  beta (d rate/d age)      -0.00119  SE 0.00018  t -6.46  p 0.0075
+  PEAK AGE = 35.2   95% CI [30.1, 40.3]
+  rate (SD/decade):  age 25: +0.122   age 40: -0.057   age 55: -0.235   age 70: -0.413   age 80: -0.532
+  cumulative change from age 20: 30: +0.122   40: +0.124   50: +0.008   60: -0.227   70: -0.581   80: -1.054
+
+==============================================================================
+CRYSTALLISED (gc)   [k = 8, tau = 0.120]
+  alpha (rate at age 0)    +0.04511  SE 0.00957  t +4.72  p 0.0092
+  beta (d rate/d age)      -0.00080  SE 0.00023  t -3.43  p 0.0265
+  PEAK AGE = 56.7   95% CI [42.5, 70.8]
+  rate (SD/decade):  age 25: +0.252   age 40: +0.133   age 55: +0.013   age 70: -0.106   age 80: -0.186
+  cumulative change from age 20: 30: +0.252   40: +0.424   50: +0.517   60: +0.531   70: +0.464   80: +0.318
+
+==============================================================================
+QUANTITATIVE (gq)   [k = 6, tau = 0.000]
+  alpha (rate at age 0)    +0.01564  SE 0.00104  t +15.04  p 0.0044
+  beta (d rate/d age)      -0.00052  SE 0.00003  t -15.53  p 0.0041
+  PEAK AGE = 29.9   95% CI [29.4, 30.4]
+  rate (SD/decade):  age 25: +0.026   age 40: -0.053   age 55: -0.131   age 70: -0.210   age 80: -0.262
+  cumulative change from age 20: 30: +0.026   40: -0.001   50: -0.080   60: -0.211   70: -0.395   80: -0.631
+
+==============================================================================
+FULL-SCALE (fs)   [k = 6, tau = 0.099]
+  alpha (rate at age 0)    +0.06353  SE 0.00754  t +8.43  p 0.0138
+  beta (d rate/d age)      -0.00145  SE 0.00013  t -11.51  p 0.0075
+  PEAK AGE = 43.9   95% CI [34.2, 53.5]
+  rate (SD/decade):  age 25: +0.273   age 40: +0.056   age 55: -0.161   age 70: -0.378   age 80: -0.523
+  cumulative change from age 20: 30: +0.273   40: +0.402   50: +0.385   60: +0.224   70: -0.082   80: -0.533

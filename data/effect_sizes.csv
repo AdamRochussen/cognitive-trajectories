@@ -1,0 +1,31 @@
+study,cluster,n,age1,age2,interval,midage,domain,d,se,child,note
+Owens (1953),Owens/Iowa,127,19.0,50.0,31.0,34.5,gc,0.6427,,False,Owens 1966 Tab.9
+Owens (1953),Owens/Iowa,127,19.0,50.0,31.0,34.5,gq,-0.0815,,False,Owens 1966 Tab.9
+Owens (1953),Owens/Iowa,127,19.0,50.0,31.0,34.5,gf,0.1048,,False,Owens 1966 Tab.9
+Owens (1953),Owens/Iowa,127,19.0,50.0,31.0,34.5,fs,0.5498,,False,Owens 1966 Tab.9
+Owens (1966),Owens/Iowa,96,50.0,61.0,11.0,55.5,gc,-0.032,,False,Owens 1966 Tab.3
+Owens (1966),Owens/Iowa,96,50.0,61.0,11.0,55.5,gq,-0.203,,False,Owens 1966 Tab.3
+Owens (1966),Owens/Iowa,96,50.0,61.0,11.0,55.5,gf,0.015,,False,Owens 1966 Tab.3
+Owens (1966),Owens/Iowa,96,50.0,61.0,11.0,55.5,fs,-0.047,,False,Owens 1966 Tab.3
+Schwartzman et al. (1987),Concordia,259,25.0,64.7,39.7,44.85,gf,-0.5634,,False,
+Schwartzman et al. (1987),Concordia,259,25.0,64.7,39.7,44.85,gc,0.2849,,False,
+Schwartzman et al. (1987),Concordia,259,25.0,64.7,39.7,44.85,gq,-0.3161,,False,
+Schwartzman et al. (1987),Concordia,259,25.0,64.7,39.7,44.85,fs,-0.1866,,False,
+Mortensen & Kleven (1993) 50-60,Glostrup,141,50.0,60.0,10.0,55.0,gf,-0.1566,,False,
+Mortensen & Kleven (1993) 50-60,Glostrup,141,50.0,60.0,10.0,55.0,gc,0.0199,,False,
+Mortensen & Kleven (1993) 50-60,Glostrup,141,50.0,60.0,10.0,55.0,gq,-0.1171,,False,
+Mortensen & Kleven (1993) 50-60,Glostrup,141,50.0,60.0,10.0,55.0,fs,-0.1387,,False,
+Mortensen & Kleven (1993) 60-70,Glostrup,141,60.0,70.0,10.0,65.0,gf,-0.2648,,False,
+Mortensen & Kleven (1993) 60-70,Glostrup,141,60.0,70.0,10.0,65.0,gc,-0.0931,,False,
+Mortensen & Kleven (1993) 60-70,Glostrup,141,60.0,70.0,10.0,65.0,gq,-0.1438,,False,
+Mortensen & Kleven (1993) 60-70,Glostrup,141,60.0,70.0,10.0,65.0,fs,-0.2635,,False,
+Deary et al. (1998) HOPE,HOPE,387,75.1,79.3,4.2,77.2,gc,-0.28,,False,NART only
+Larsen et al. (2008),VES,4384,19.92,38.35,18.43,29.135,gc,0.4205,,False,
+Larsen et al. (2008),VES,4385,19.92,38.35,18.43,29.135,gq,0.0082,,False,
+Dam & Raven (2008),DamRaven,99,20.0,70.0,50.0,45.0,gf,-0.61,,False,APM
+Corley et al. (2023),LBC1936,1091,69.5,82.03,12.53,75.765,gf,-0.71,0.1075,False,
+Corley et al. (2023),LBC1936,1091,69.5,82.03,12.53,75.765,gc,-0.0357,0.0162,False,
+Corley et al. (2023),LBC1936,1091,69.5,82.03,12.53,75.765,fs,-0.5414,0.0831,False,
+Bradway & Thompson (1962),Bradway,111,13.6,29.5,15.9,21.55,fs,0.69,,True,
+Deary et al. (2000),SMS1932,101,11.0,77.0,66.0,44.0,fs,0.92,,True,
+Deary et al. (2004),SMS1932/47,493,11.0,80.0,69.0,45.5,fs,1.08,,True,

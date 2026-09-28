@@ -1,0 +1,18 @@
+Tucker-Drob et al. (2022): model-implied mean trajectories (retest-adjusted)
+T = 50 + 10*(Y(age) - Y(35)); vertex = 50 - scale*s/(2q)
+
+VCAP  (plotted 20-90; the original Fig. 3 plots from 35)
+  Gs Perceptual speed         vertex    9.6   T@20= 52.1  T@25= 51.6  T@35= 50.0  T@50= 46.2  T@65= 40.5  T@75= 35.8  T@85= 30.3  T@95= 24.1
+  Gf Abstract reasoning       vertex   24.9   T@20= 50.3  T@25= 50.4  T@35= 50.0  T@50= 48.0  T@65= 44.4  T@75= 41.1  T@85= 37.0  T@95= 32.2
+  Gm Memory                   vertex   27.9   T@20= 49.9  T@25= 50.2  T@35= 50.0  T@50= 48.3  T@65= 44.8  T@75= 41.6  T@85= 37.5  T@95= 32.7
+  Gv Visuospatial reasoning   vertex  -17.9   T@20= 51.9  T@25= 51.3  T@35= 50.0  T@50= 47.5  T@65= 44.3  T@75= 41.8  T@85= 39.1  T@95= 36.1
+  Gc Crystallised knowledge   vertex   67.6   T@20= 45.4  T@25= 47.1  T@35= 50.0  T@50= 52.9  T@65= 54.0  T@75= 53.8  T@85= 52.9  T@95= 51.2
+
+BETULA  (plotted 25-85; the original Fig. 3 plots from 35)
+  Gs Perceptual speed         vertex   36.2   T@25= 48.3  T@35= 50.0  T@50= 47.4  T@65= 38.8  T@75= 29.6  T@85= 17.7
+  Gm Memory                   vertex   36.4   T@25= 48.6  T@35= 50.0  T@50= 48.0  T@65= 41.1  T@75= 33.7  T@85= 24.2
+  Gv Visuospatial reasoning   vertex   29.3   T@25= 50.1  T@35= 50.0  T@50= 46.7  T@65= 39.5  T@75= 32.7  T@85= 24.2
+  Gc Crystallised knowledge   vertex   49.3   T@25= 46.4  T@35= 50.0  T@50= 51.9  T@65= 49.6  T@75= 45.8  T@85= 40.1
+
+Check against the original Fig. 3 (black curves, read by eye): VCAP Gs ~25, Gv ~36, Gm ~33, Gf ~32, Gc ~51 at 95;
+BETULA Gs ~18, Gm ~25, Gv ~24, Gc ~40 at 85.

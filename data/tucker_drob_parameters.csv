@@ -1,0 +1,10 @@
+study,domain,label,i,i_se,s,s_se,q,q_se,age_scale_years,source
+VCAP,Gs,Perceptual speed,0.198,0.014,-0.315,0.006,-0.039,0.003,10,Table 1
+VCAP,Gf,Abstract reasoning,0.164,0.015,-0.186,0.007,-0.037,0.003,10,Table 1
+VCAP,Gm,Memory,0.184,0.015,-0.172,0.007,-0.039,0.003,10,Table 1
+VCAP,Gv,Visuospatial reasoning,0.09,0.015,-0.19,0.007,-0.014,0.003,10,Table 1
+VCAP,Gc,Crystallised knowledge,0.117,0.01,0.134,0.004,-0.038,0.002,10,Table 1
+BETULA,Gs,Perceptual speed,0.925,0.027,-0.936,0.058,-0.85,0.043,25,Table 2
+BETULA,Gm,Memory,0.577,0.02,-0.744,0.041,-0.682,0.035,25,Table 2
+BETULA,Gv,Visuospatial reasoning,0.544,0.022,-0.871,0.042,-0.525,0.033,25,Table 2
+BETULA,Gc,Crystallised knowledge,0.319,0.016,-0.033,0.03,-0.58,0.028,25,Table 2

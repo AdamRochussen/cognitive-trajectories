@@ -1,0 +1,34 @@
+1. ASSUMED TEST-RETEST CORRELATION r (sampling-variance formula)
+   r = 0.50   gf: peak  35.3 [ 30.2,  40.3]  @70 -0.59   gc: peak  57.0 [ 42.2,  71.8]  @70 +0.47   gq: peak  29.9 [ 29.4,  30.4]  @70 -0.40   fs: peak  43.7 [ 34.2,  53.2]  @70 -0.09
+   r = 0.70   gf: peak  35.2 [ 30.1,  40.3]  @70 -0.58   gc: peak  56.7 [ 42.5,  70.8]  @70 +0.46   gq: peak  29.9 [ 29.4,  30.4]  @70 -0.39   fs: peak  43.9 [ 34.2,  53.5]  @70 -0.08
+   r = 0.85   gf: peak  35.2 [ 30.1,  40.3]  @70 -0.58   gc: peak  56.4 [ 42.9,  69.9]  @70 +0.46   gq: peak  29.9 [ 29.4,  30.4]  @70 -0.39   fs: peak  44.0 [ 34.2,  53.8]  @70 -0.07
+   r = 0.95   gf: peak  35.2 [ 30.0,  40.3]  @70 -0.57   gc: peak  56.2 [ 43.1,  69.3]  @70 +0.46   gq: peak  29.9 [ 29.4,  30.4]  @70 -0.39   fs: peak  44.1 [ 34.1,  54.0]  @70 -0.07
+
+2. INFERENCE: cluster-robust (primary) vs Knapp-Hartung model-based SEs
+   cluster-robust   gf: peak  35.2 [ 30.1,  40.3]  @70 -0.58   gc: peak  56.7 [ 42.5,  70.8]  @70 +0.46   gq: peak  29.9 [ 29.4,  30.4]  @70 -0.39   fs: peak  43.9 [ 34.2,  53.5]  @70 -0.08
+   Knapp-Hartung    gf: peak  35.2 [ 27.9,  42.6]  @70 -0.58   gc: peak  56.7 [ 46.0,  67.3]  @70 +0.46   gq: peak  29.9 [ 26.8,  33.0]  @70 -0.39   fs: peak  43.9 [ 39.8,  48.0]  @70 -0.08
+   NB: with only 4-5 cohort clusters the sandwich estimator can understate
+   uncertainty; the gq interval in particular should be read from the KH row.
+
+3. QUADRATIC RATE FUNCTION (rate = a + b*age + c*age^2)
+   gf: peak  35.2                 @70 -0.58
+   gc: peak  52.0                 @70 +0.44
+   fs: peak  42.5                 @70 -0.07
+
+4. LEAVE-ONE-SAMPLE-OUT
+   gf: peak range 32.7 (without Owens (1953)) to 36.3 (without Schwartzman et al. (1987))
+   gc: peak range 51.4 (without Corley et al. (2023)) to 59.8 (without Schwartzman et al. (1987))
+   gq: peak range 28.4 (without Larsen et al. (2008)) to 30.0 (without Mortensen & Kleven (1993) 60-70)
+   fs: peak range 40.9 (without Owens (1953)) to 47.0 (without Schwartzman et al. (1987))
+
+5. CORLEY et al. (2023) FULL-SCALE: four-domain mean (-0.541, primary) vs -0.31 (Substack table)
+   primary  fs: peak  43.9 [ 34.2,  53.5]  @70 -0.08
+   -0.31    fs: peak  44.6 [ 29.2,  60.0]  @70 -0.02
+
+6. ADDING THE THREE CHILDHOOD-BASELINE STUDIES (full-scale only)
+   adult only        fs: peak  43.9 [ 34.2,  53.5]  @70 -0.08
+   + child baseline  fs: peak  52.7 [ 44.0,  61.3]  @70 +0.53
+
+7. DROPPING THE ONE UNVERIFIED VALUE (Dam & Raven 2008, gf)
+   with     gf: peak  35.2 [ 30.1,  40.3]  @70 -0.58
+   without  gf: peak  35.6 [ 25.5,  45.7]  @70 -0.56
