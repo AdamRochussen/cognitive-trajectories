@@ -1,0 +1,19 @@
+study,weighting,domain,weight
+VCAP,WAIS-IV-like weights,Gs,0.2
+VCAP,WAIS-IV-like weights,Gf,0.15
+VCAP,WAIS-IV-like weights,Gm,0.2
+VCAP,WAIS-IV-like weights,Gv,0.15
+VCAP,WAIS-IV-like weights,Gc,0.3
+VCAP,g-loading weights,Gs,0.1493
+VCAP,g-loading weights,Gf,0.2566
+VCAP,g-loading weights,Gm,0.1858
+VCAP,g-loading weights,Gv,0.2096
+VCAP,g-loading weights,Gc,0.1986
+BETULA,WAIS-IV-like weights,Gs,0.2
+BETULA,WAIS-IV-like weights,Gm,0.2
+BETULA,WAIS-IV-like weights,Gv,0.3
+BETULA,WAIS-IV-like weights,Gc,0.3
+BETULA,g-loading weights,Gs,0.2637
+BETULA,g-loading weights,Gm,0.2473
+BETULA,g-loading weights,Gv,0.2237
+BETULA,g-loading weights,Gc,0.2654

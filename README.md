@@ -1,8 +1,7 @@
-# At what age does intelligence really peak? — data and code
+# What age does intelligence really peak? — data and code
 
-Data, code and methods for the original analyses in *At what age does
-intelligence really peak? A rebuttal to Aaron Dymarskiy* (Adam Rochussen), a
-response to *Age and Cognitive Ability* (Heretical Insights).
+Data, code and methods for the original analyses in *What age does
+intelligence really peak?* and *At what age do we start to get stupider?* by Adam Rochussen.
 
 ## What is here
 
@@ -18,7 +17,8 @@ response to *Age and Cognitive Ability* (Heretical Insights).
 | `code/figures.py` | Figures 1 and 2 (PNG, plus PDF/SVG with editable text) |
 | `code/style.py` | Shared figure style (font, SVG font fallback) |
 | `code/tucker_drob.py` | Figure 3: Tucker-Drob et al. (2022) trajectories reconstructed from their published parameters |
-| `data/tucker_drob_parameters.csv` | Growth-curve means transcribed from Tucker-Drob et al. Tables 1–2 |
+| `data/tucker_drob_parameters.csv` | Growth-curve means and general-factor loadings transcribed from Tucker-Drob et al. Tables 1–2 |
+| `data/tucker_drob_fullscale_weights.csv` | Domain weights for the two full-scale composites |
 | `results/` | Model output as produced by the code |
 | `figures/` | Figures exactly as used in the article |
 
@@ -41,7 +41,8 @@ integral of an age-dependent rate of change over its own age window. Integrating
 the fitted rate gives the trajectory. Peak ages: quantitative 30, fluid 35,
 full-scale 44, crystallised 57. Separately, the retest-adjusted trajectories
 from Tucker-Drob et al. (2022) are reconstructed from their published
-growth-curve parameters (Figure 3). See `METHODS.md` for details.
+growth-curve parameters, with two full-scale composites built from them
+(WAIS-IV-like and g-loading weights; Figure 3). See `METHODS.md` for details.
 
 ## Notes
 

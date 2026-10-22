@@ -1,7 +1,7 @@
 # Methods
 
-This document describes the original analyses in *At what age does intelligence
-really peak? A rebuttal to Aaron Dymarskiy* in enough detail to replicate them
+This document describes the original analyses relating to  *What age does intelligence
+really peak?* published by Aporia and *At what age do we start to get stupider?* published by Fruit of Eden, by Adam Rochussen. There is enough detail here to replicate the analyses
 without the code. Every input number is also listed, with its source table, in
 `data/source_values.csv`.
 
@@ -338,9 +338,35 @@ observed age (9.6 and −17.9) and so decline throughout. Betula: visuospatial
 29.3, memory 36.4, perceptual speed 36.2, crystallised 49.3. Peaks are marked
 with a dot in Figure 3.
 
+**Full-scale composites (Figure 3, panels C–D).** A full-scale score is a
+weighted sum of domain scores, `C = Σ w_k Y_k`, so its mean trajectory is the
+same weighted sum of the domain trajectories. Because each is quadratic, so is
+the composite, and its peak is exact: `A* = −Σ w_k s_k / (2 Σ w_k q_k)`. The peak
+age depends only on the relative weights; the correlations among domains affect
+only how large the composite's changes are in its own SD units. Two weightings
+are used (`data/tucker_drob_fullscale_weights.csv`):
+
+* **WAIS-IV-like:** the subtest shares of the WAIS-IV FSIQ — 30% crystallised
+  (VCI), 30% reasoning (PRI; split equally between Gf and Gv in VCAP, all Gv in
+  Betula, which has no abstract-reasoning measure), 20% memory (WMI; episodic
+  memory is the closest available domain, as working memory was not measured)
+  and 20% processing speed (PSI).
+* **g-loading:** proportional to each domain's standardised loading on the
+  general level factor `Fi` (Tables 1–2), normalised to sum to 1. VCAP Gf's
+  loading of 1.011 is capped at 1.
+
+Resulting peaks: VCAP 33.6 (WAIS-IV-like) and 28.8 (g-loading); Betula 38.1
+under both. Composites are plotted as the weighted mean of the domain T-scores,
+i.e. in the same domain-SD units as panels A–B. A composite re-standardised to
+its own SD would show somewhat larger changes, but the same peak ages. Giving
+crystallised ability more weight moves the peak later: in VCAP by roughly five
+years per extra 10% of weight (44 at a 50/50 crystallised/fluid split, as in
+older Wechsler scales); in Betula by about 1.5 years per 10%.
+
 **Caveats.** These are population-mean curves only; the original figure also
 shows trajectories stratified by the general factor of fluid decline, which are
-not reproduced. Quadratic curves are least reliable at the edges of each
+not reproduced. The full-scale composites are constructed here, not reported by
+the original authors. Quadratic curves are least reliable at the edges of each
 cohort's age range. The paper gives Betula's baseline age range as 25–86 in the
 Results and 25–95 in the Methods; the figure uses 25–86.
 

@@ -7,4 +7,4 @@ python3 model.py            > /dev/null && echo "results/     primary_models.txt
 python3 sensitivity.py      > /dev/null && echo "results/     sensitivity.txt"
 python3 mcardle_practice.py > /dev/null && echo "results/     mcardle_practice.txt"
 python3 figures.py          > /dev/null && echo "figures/     fig1, fig2 (png/pdf/svg)"
-python3 tucker_drob.py      > /dev/null && echo "figures/     fig3 + results/tucker_drob.txt"
+python3 tucker_drob.py      > /dev/null && echo "figures/     fig3 (incl. full-scale panels) + results/tucker_drob.txt"

@@ -16,3 +16,9 @@ BETULA  (plotted 25-85; the original Fig. 3 plots from 35)
 
 Check against the original Fig. 3 (black curves, read by eye): VCAP Gs ~25, Gv ~36, Gm ~33, Gf ~32, Gc ~51 at 95;
 BETULA Gs ~18, Gm ~25, Gv ~24, Gc ~40 at 85.
+
+FULL-SCALE COMPOSITES (weighted mean of domain scores)
+  VCAP   WAIS-IV-like weights   peak  33.6   T@70  45.4   weights Gs 0.200, Gf 0.150, Gm 0.200, Gv 0.150, Gc 0.300
+  VCAP   g-loading weights      peak  28.8   T@70  44.5   weights Gs 0.149, Gf 0.257, Gm 0.186, Gv 0.210, Gc 0.199
+  BETULA WAIS-IV-like weights   peak  38.1   T@70  39.7   weights Gs 0.200, Gm 0.200, Gv 0.300, Gc 0.300
+  BETULA g-loading weights      peak  38.1   T@70  39.3   weights Gs 0.264, Gm 0.247, Gv 0.224, Gc 0.265
